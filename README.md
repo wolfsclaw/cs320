@@ -1,5 +1,5 @@
 # cs320
-Repository for my CS320 Class/SNHU<BR>
+<center>Repository for my CS320 Class/SNHU</center><BR>
 <br>
 <b>How can I ensure that my code, program, or software is functional and secure?</b><BR>
 <BR>
